@@ -14,6 +14,8 @@ const courses=[
     {id:2, name:'b'}
 ];
 
+
+abcs
 //Find returns the first element that matches the criteria
 const course= courses.find(function(course){
 return course.name==='xyz';
