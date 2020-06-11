@@ -49,7 +49,7 @@ personalInformation.isGoldMember=true;
 //console.log(personalInformation);
 
 
-//ARithmetic
+//Arithmetic Check
 const price1=3;
 const price2=4;
 const price3=5;
@@ -57,6 +57,3 @@ const totalPrice= price1+ price2 + (price3*2);
 const avePrice= totalPrice/4;
 const discountPrice= avePrice-5;
 console.log(totalPrice, avePrice, discountPrice);
-
-//
-const1= 
